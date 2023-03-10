@@ -57,3 +57,4 @@ jobs:
         with:
           api_token: ${{ secrets.BOOST_API_DEV_TOKEN }}
           registry_module: boostsecurityio/npm-audit
+          api_endpoint: https://api.dev.boostsec.io
