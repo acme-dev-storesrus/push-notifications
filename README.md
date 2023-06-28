@@ -47,7 +47,6 @@ The above command will install the latest version of the CLI globally and create
 - [Many, many more](https://zents.dev)
 
 ## Documentation
-
 Head over to the [official website](https://zents.dev) and read the [documentation](https://zents.dev/guide/).
 
 ## License
