@@ -1,6 +1,5 @@
 [![ACME logo](./acme-logo.jpeg)](https://warnerbros.fandom.com/wiki/ACME_Corporation)
 
-
 [![Boostsecurity](https://api.dev.boostsec.io/badges/6KTnyh9NlyXKYCyA/acme-storesrus/push-notifications)](https://api.dev.boostsec.io/badges/6KTnyh9NlyXKYCyA/acme-storesrus/push-notifications/details)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/sahachide/ZenTS?style=flat-square)
