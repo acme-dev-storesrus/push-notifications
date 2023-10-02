@@ -1,6 +1,8 @@
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 /* eslint-disable @typescript-eslint/no-unsafe-call */
 
+token = "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"
+
 // Source: https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore#_get
 export function get<T = any>(
   obj: Record<string, unknown>,
