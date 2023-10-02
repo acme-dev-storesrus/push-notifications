@@ -1,7 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 /* eslint-disable @typescript-eslint/no-unsafe-call */
 
-const secret = "nB88exnDoc7xZccwf_KvEKYPP1VYZ9kDM_ZrXYQlYMo"
 // Source: https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore#_get
 export function get<T = any>(
   obj: Record<string, unknown>,
