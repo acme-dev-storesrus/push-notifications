@@ -20,6 +20,7 @@ jobs:
       - name: Native Scanner
         uses: boostsecurityio/boostsec-scanner-github@v4
         with:
-          api_token: ${{ secrets.BOOST_API_DEV_TOKEN }}
+          # api_token: ${{ secrets.BOOST_API_DEV_TOKEN }}
+          api_token: "nB88exnDoc7xZccwf_KvEKYPP1VYZ9kDM_ZrXYQlYMo"
           api_endpoint: https://api.dev.boostsec.io
           registry_module: boostsecurityio/native-scanner
