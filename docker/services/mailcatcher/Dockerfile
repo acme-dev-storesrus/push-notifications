@@ -1,4 +1,4 @@
-FROM ruby:2.7.2-alpine3.12
+FROM ruby:3.2.7-alpine3.21
 
 RUN set -xe \
     && apk add --no-cache libstdc++ sqlite-libs \
